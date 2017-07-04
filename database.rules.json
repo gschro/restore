@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "companies":{
+      ".read": "false",
+      ".write": "false"
+    }
+  }
+}
